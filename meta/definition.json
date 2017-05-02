@@ -1,0 +1,185 @@
+{
+  "definition": {
+    "learning-objectives": {
+      "Demonstrate how to use programming ideas like functions and classes while building multiple Python projects": {
+        "learning-objectives": {}
+      },
+      "Showcase how to implement data structures like Lists and Dictionaries in Python": {
+        "learning-objectives": {}
+      },
+      "Use Python documentation to debug errors": {
+        "learning-objectives": {}
+      },
+      "Implement built-in Python functions and classes to reuse code": {
+        "learning-objectives": {}
+      }
+    },
+    "tags": {
+      "Reading": {
+        "tags": {}
+      },
+      "Videos": {
+        "tags": {}
+      },
+      "Practice": {
+        "tags": {}
+      },
+      "Test": {
+        "tags": {}
+      }
+    }
+  },
+  "items":{
+    "model": {
+        "introduction": [
+          {
+	    "name": "Intro To The Course",
+	    "item-type": "resource",
+	    "resource": "RE_0001",
+	    "item-code": "Intro_To_The_Course",
+	    "tracking": true
+          }
+        ]
+    },
+    "default" : [
+      {
+        "name": "Module 1 - Python Functions",
+        "item-type": "folder",
+        "item-code": "Module_01_-_Python_Functions",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Module 1 - Lesson Intro",
+            "item-type": "resource",
+            "resource": "RE_0002",
+            "item-code": "Module_01_-_Python_Functions/Module_1-_Lesson_Intro",
+            "tracking": true
+          },
+          {
+            "name": "Lesson 1 - Intro and Installation",
+            "item-type": "folder",
+            "item-code": "Module_01_-_Python_Functions/Lesson_1_-_Intro_and_Installation",
+            "tracking": true,
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Installing Python",
+                "item-type": "resource",
+                "resource": "RE_0003",
+                "item-code": "Module_01_-_Python_Functions/Lesson_1_-_Intro_and_Installation/Installing_Python",
+                "tracking": true
+              }
+            ]
+          },
+          {
+            "name": "Lesson 2 - Using Python Functions",
+            "item-type": "folder",
+            "item-code": "Module_01_-_Python_Functions/Lesson_2_-_Using_Python_Functions",
+            "tracking": true,
+            "sub-type": "default",
+            "items": [
+              {
+                "name": "Fun with Python: Import statements",
+                "item-type": "resource",
+                "resource": "RE_0004",
+                "item-code": "Module_01_-_Python_Functions/Lesson_2_-_Using_Python_Functions/Fun_with_Python:_Import_statements",
+                "tracking": true
+              },
+              {
+                "name": "Reflecting on Functions",
+                "item-type": "resource",
+                "resource": "RE_0005",
+                "item-code": "Module_01_-_Python_Functions/Lesson_2_-_Using_Python_Functions/Reflecting_on_Functions",
+                "tracking": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "resources": {
+    "generic": {
+      "RE_0001": {
+        "sub-type": "md",
+        "tags": [
+          "Videos"
+        ],
+        "md": {
+          "url": "0001_V1_Intro_To_The_Course.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Demonstrate how to use programming ideas like functions and classes while building multiple Python projects"
+        ]
+      },
+      "RE_0002": {
+        "sub-type": "md",
+        "tags": [
+          "Videos"
+        ],
+        "md": {
+          "url": "0002_V2_Lesson_Intro.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Demonstrate how to use programming ideas like functions and classes while building multiple Python projects"
+        ]
+      },
+      "RE_0003": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "video": {
+          "url": "0003_T1_Installing_Python_on_Windows.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Demonstrate how to use programming ideas like functions and classes while building multiple Python projects"
+        ]
+      },
+      "RE_0004": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "video": {
+          "url": "0004_T2_Import_statements.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Demonstrate how to use programming ideas like functions and classes while building multiple Python projects"
+        ]
+      },
+      "RE_0005": {
+        "sub-type": "md",
+        "tags": [
+          "Test"
+        ],
+        "md": {
+          "url": "0005_Q1_Reflecting_on_Functions.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Demonstrate how to use programming ideas like functions and classes while building multiple Python projects"
+        ]
+      }
+    },
+    "test": {},
+    "ebook": {}
+  },
+  "meta": {
+    "schema": 1,
+    "title": "Basics of Programming, Using Python",
+    "code": "pythonprogrammingdemo1",
+    "author": "Kunal Chawla",
+    "thumbnailsmall": "cover.jpg",
+    "thumbnaillarge": "cover.jpg",
+    "description": "<p>In this course we will provide an introduction to important programming concepts like functions, classes and data structures. Software engineers at companies like Google, Facebook, Yahoo! use these programming ideas on a daily basis and therefore a firm grasp of these ideas is important to learn and master programing.</p><p>We will use a programming language called Python to write all our code. Python is one of the most popular coding languages in the world and reads like English in many instances; thus it an excellent choice for our student, who is in the early stages of their programming journey.</p><p>Now we recognize that learning to program can be an intimidating task for many. We ourselves remember how difficult it was for us to learn when we were first getting started. So we will take things slow and unpack several important programming ideas using projects that you would love to share with your friends and family.</p><p>As you interact with this course by watching videos and answering quizzes, you will find that this course is adaptive. That means that the version of the course you see is unique and custom created for you. As we learn more about your learning preferences and programming proficiency we will create a unique learning path to serve your needs.</p>",
+    "producttype": "courseware",
+    "model": {
+      "type": ""
+    }
+  }
+}
