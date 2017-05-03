@@ -1,5 +1,5 @@
 # Installing Python on Windows
-> - [meta] Code: T3
+> - [meta] Code: T1
 > - [meta] Learning Objective: LO1
 > - [meta] CSTA Standard: CPP.L2-05
 > - [meta] Tag-Type: Text

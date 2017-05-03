@@ -1,5 +1,5 @@
 # Fun with Python; Import Statements
-> - [meta] Code:T6
+> - [meta] Code:T2
 > - [meta] Learning Objective: LO1
 > - [meta] CSTA Standard: CPP.L2-05
 > - [meta] Tag-Type: Text

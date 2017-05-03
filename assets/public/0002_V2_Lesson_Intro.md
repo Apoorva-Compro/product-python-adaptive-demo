@@ -1,6 +1,6 @@
 # Lesson Intro
 
-> - [meta] Code: V7
+> - [meta] Code: V2
 > - [meta] Learning Objective: LO1
 > - [meta] CSTA Standard: CPP.L2-05
 > - [meta] Tag-Type: Video

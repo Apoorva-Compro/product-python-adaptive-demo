@@ -21,6 +21,9 @@
       "Videos": {
         "tags": {}
       },
+      "Interactive": {
+        "tags": {}
+      },
       "Practice": {
         "tags": {}
       },
@@ -68,6 +71,13 @@
                 "resource": "RE_0003",
                 "item-code": "Module_01_-_Python_Functions/Lesson_1_-_Intro_and_Installation/Installing_Python",
                 "tracking": true
+              },
+              {
+                "name": "Installing Python on Windows",
+                "item-type": "resource",
+                "resource": "RE_0004",
+                "item-code": "Module_01_-_Python_Functions/Lesson_1_-_Intro_and_Installation/Installing_Python_on_Windows",
+                "tracking": true
               }
             ]
           },
@@ -81,15 +91,22 @@
               {
                 "name": "Fun with Python: Import statements",
                 "item-type": "resource",
-                "resource": "RE_0004",
+                "resource": "RE_0005",
                 "item-code": "Module_01_-_Python_Functions/Lesson_2_-_Using_Python_Functions/Fun_with_Python:_Import_statements",
                 "tracking": true
               },
               {
                 "name": "Reflecting on Functions",
                 "item-type": "resource",
-                "resource": "RE_0005",
+                "resource": "RE_0006",
                 "item-code": "Module_01_-_Python_Functions/Lesson_2_-_Using_Python_Functions/Reflecting_on_Functions",
+                "tracking": true
+              },
+              {
+                "name": "Writing a Factorial Function",
+                "item-type": "resource",
+                "resource": "RE_0007",
+                "item-code": "Module_01_-_Python_Functions/Lesson_2_-_Using_Python_Functions/Writing_a_Factorial_Function",
                 "tracking": true
               }
             ]
@@ -139,13 +156,13 @@
           "Demonstrate how to use programming ideas like functions and classes while building multiple Python projects"
         ]
       },
-      "RE_0004": {
+     "RE_0004": {
         "sub-type": "md",
         "tags": [
           "Reading"
         ],
         "video": {
-          "url": "0004_T2_Import_statements.md"
+          "url": "0004_V3_Running_Python_First_Time_Windows"
         },
         "description": "",
         "learning-objectives": [
@@ -155,14 +172,41 @@
       "RE_0005": {
         "sub-type": "md",
         "tags": [
-          "Test"
+          "Reading"
         ],
-        "md": {
-          "url": "0005_Q1_Reflecting_on_Functions.md"
+        "video": {
+          "url": "0005_T2_Import_statements.md"
         },
         "description": "",
         "learning-objectives": [
           "Demonstrate how to use programming ideas like functions and classes while building multiple Python projects"
+        ]
+      },
+      "RE_0006": {
+        "sub-type": "test",
+        "tags": [
+          "Test"
+        ],
+        "md": {
+          "url": "0006_Q1_Reflecting_on_Functions.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Demonstrate how to use programming ideas like functions and classes while building multiple Python projects"
+        ]
+      },
+      "RE_0007": {
+        "sub-type": "md",
+        "tags": [
+          "Interactive"
+        ],
+        "md": {
+          "url": "0007_I1_Writing_a_Factorial_Function.md"
+        },
+        "description": "",
+        "learning-objectives": [
+          "Demonstrate how to use programming ideas like functions and classes while building multiple Python projects",
+          "Use Python documentation to debug errors"
         ]
       }
     },
