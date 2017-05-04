@@ -148,7 +148,7 @@
         "tags": [
           "Reading"
         ],
-        "video": {
+        "md": {
           "url": "0003_T1_Installing_Python_on_Windows.md"
         },
         "description": "",
@@ -161,7 +161,7 @@
         "tags": [
           "Reading"
         ],
-        "video": {
+        "md": {
           "url": "0004_V3_Running_Python_First_Time_Windows"
         },
         "description": "",
@@ -174,7 +174,7 @@
         "tags": [
           "Reading"
         ],
-        "video": {
+        "md": {
           "url": "0005_T2_Import_statements.md"
         },
         "description": "",
@@ -183,7 +183,7 @@
         ]
       },
       "RE_0006": {
-        "sub-type": "test",
+        "sub-type": "md",
         "tags": [
           "Test"
         ],
@@ -223,7 +223,7 @@
     "description": "<p>In this course we will provide an introduction to important programming concepts like functions, classes and data structures. Software engineers at companies like Google, Facebook, Yahoo! use these programming ideas on a daily basis and therefore a firm grasp of these ideas is important to learn and master programing.</p><p>We will use a programming language called Python to write all our code. Python is one of the most popular coding languages in the world and reads like English in many instances; thus it an excellent choice for our student, who is in the early stages of their programming journey.</p><p>Now we recognize that learning to program can be an intimidating task for many. We ourselves remember how difficult it was for us to learn when we were first getting started. So we will take things slow and unpack several important programming ideas using projects that you would love to share with your friends and family.</p><p>As you interact with this course by watching videos and answering quizzes, you will find that this course is adaptive. That means that the version of the course you see is unique and custom created for you. As we learn more about your learning preferences and programming proficiency we will create a unique learning path to serve your needs.</p>",
     "producttype": "courseware",
     "model": {
-      "type": ""
+      "type": "itlabgeneric"
     }
   }
 }
